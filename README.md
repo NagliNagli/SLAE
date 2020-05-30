@@ -3,6 +3,9 @@
 ## Introduction
 
 This repository will include my x86 Assembly Language and Shellcoding journey for the [SLAE32](https://www.pentesteracademy.com/course?id=3) certification path
-![SLAE](/images/slae.png)
 
-My Student id is: SLAE-XXX
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/NagliNagli/SLAE/master/images/slae.png">
+</p>
+
+**My Student id is: SLAE-XXX**
