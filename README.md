@@ -8,4 +8,8 @@ This repository will include my x86 Assembly Language and Shellcoding EXAM code 
 <img src="https://raw.githubusercontent.com/NagliNagli/SLAE/master/images/slae.png">
 </p>
 
+## Blog Posts
+
+**1st Assignment - Bind_Shell_TCP** - <https://naglinagli.github.io/shellbind/>
+
 **My Student id is: SLAE - 1543**
