@@ -46,7 +46,7 @@ _start:
 
 ; Redirect the file descriptors using dup2
 
-	pop ebx		; moving the file descriptor from the stacl
+	pop ebx		; moving the file descriptor from the stack
 	xor eax, eax	; zeroing out the eax register
 	xor ecx, ecx    ; clearing ecx before using the loop
 	mov cl, 0x2     ; setting the loop counter
