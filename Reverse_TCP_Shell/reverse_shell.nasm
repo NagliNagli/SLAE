@@ -63,7 +63,7 @@ looper:
        mul ebx
 
        ; PUSH //bin/sh (8 bytes)
-	push edx	; push nullbyte to the stuck
+	push edx	; push nullbyte to the stack
 	push 0x68732f2f
 	push 0x6e69622f
 
