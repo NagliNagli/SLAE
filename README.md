@@ -11,5 +11,6 @@ This repository will include my x86 Assembly Language and Shellcoding EXAM code 
 ## Blog Posts
 
 **1st Assignment - Bind_Shell_TCP** - <https://naglinagli.github.io/shellbind/>
+**2nd Assignment - Reverse TCP Shell** - <https://naglinagli.github.io/reverseshell/>
 
 **My Student id is: SLAE - 1543**
