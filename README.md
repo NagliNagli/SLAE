@@ -18,4 +18,6 @@ This repository will include my x86 Assembly Language and Shellcoding EXAM code 
 
 **4th Assignment - ROT-13 Shellcode Encoder** - <https://naglinagli.github.io/encoder/>
 
+**5th Assignment - Metasploit Shellcode Analysis** - <https://naglinagli.github.io/metasploit_analysis/>
+
 **My Student id is: SLAE - 1543**
