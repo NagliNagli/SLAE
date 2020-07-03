@@ -16,4 +16,6 @@ This repository will include my x86 Assembly Language and Shellcoding EXAM code 
 
 **3rd Assignment - Egghunter Shellcode** - <https://naglinagli.github.io/egghunter/>
 
+**4th Assignment - ROT-13 Shellcode Encoder** - <https://naglinagli.github.io/encoder/>
+
 **My Student id is: SLAE - 1543**
