@@ -14,4 +14,6 @@ This repository will include my x86 Assembly Language and Shellcoding EXAM code 
 
 **2nd Assignment - Reverse TCP Shell** - <https://naglinagli.github.io/reverseshell/>
 
+**3rd Assignment - Egghunter Shellcode** - <https://naglinagli.github.io/egghunter/>
+
 **My Student id is: SLAE - 1543**
